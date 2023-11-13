@@ -1,2 +1,3 @@
 # git-test
-Meu primeiro repositório Git
+Meu primeiro repositório GitHub !!
+Hello Odin!
